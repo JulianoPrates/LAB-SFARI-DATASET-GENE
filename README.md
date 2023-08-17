@@ -3,6 +3,9 @@
 Análise de dados do dataset do [Sfari](https://gene.sfari.org/) para o LAB HCPA com a Professora Carmem.
 
 ## Instalação e importação de bibliotecas
+     ### A bibliotecas utilizadas foram:
+          * [pandas](https://pandas.pydata.org/)
+          * [opendatasets](https://pypi.org/project/opendatasets/)
      
 ## Acessando o arquivo CSV
 * Vamos utilizar o comando od.download, colocando diretamente o link do arquivo que queremos. Se precisar inserir um username e uma key, é só inserir na caixa de texto que irá abrir.
